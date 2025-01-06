@@ -37,8 +37,8 @@ dist-ssr/
 # Test coverage directory
 coverage/
 
-# Configuration files (if sensitive or unnecessary)
-src/config
+.env
+
 
 # Miscellaneous
 *.tgz
